@@ -1,0 +1,11 @@
+node_modules
+.next
+.env
+
+# Ditambahkan di Fase 2
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+coverage
+.DS_Store
+Thumbs.db
